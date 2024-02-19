@@ -27,7 +27,7 @@ This project is a classic Rock, Paper, Scissors game where users can play agains
 Clone the repository:
 
    ```bash
-   git clone https://github.com/pawan2030/rock-paper-scissors.git
+   git clone  https://github.com/Pawan2030/rock-paper-scissors.git
 
 Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or create a pull request
