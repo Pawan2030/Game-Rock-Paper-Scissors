@@ -6,6 +6,13 @@ Welcome to my Rock, Paper, Scissors game! This is a simple web-based game create
 
 This project is a classic Rock, Paper, Scissors game where users can play against the computer. The game allows users to choose between Rock, Paper, or Scissors, and the computer randomly selects its move. The winner is determined based on the game rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
 
+# demo
+https://6611965a26d11516fa07ca5f--darling-kleicha-1d9f72.netlify.app
+
+![Screenshot (352)](https://github.com/Pawan2030/Game-Rock-Paper-Scissors/assets/136910101/81f08f15-792e-4b3f-9832-b8ae1b218a78)
+
+
+
 ## Features
 
 - User-friendly interface with clear instructions.
